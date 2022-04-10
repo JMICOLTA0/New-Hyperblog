@@ -1,3 +1,5 @@
 Hola, estoy escribiendo en un archivo tipo txt para practicar lo aprendido en 
 la clase anterior. Esta es la primera version del archivo.
 
+
+Ahora estoy agregando un segundo parrafo, para realizar otro commit. 
