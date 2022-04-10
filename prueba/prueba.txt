@@ -3,3 +3,8 @@ la clase anterior. Esta es la primera version del archivo.
 
 
 Ahora estoy agregando un segundo parrafo, para realizar otro commit. 
+
+Continùo agregando otro parrafo, pero no le voy a hacer commit, para ver què sucede.
+
+
+Ahora incluirè un cuarto parrafo, pero hasta ahora realizarè el tercer commit.
