@@ -8,3 +8,5 @@ Continùo agregando otro parrafo, pero no le voy a hacer commit, para ver què s
 
 
 Ahora incluirè un cuarto parrafo, pero hasta ahora realizarè el tercer commit.
+
+Retomè mi archivo de texto para terminar mi fase de practica y continuar con el estudio.
