@@ -1,19 +1,22 @@
 body
 {
-    color: deeppink;
-    text-align: center;
-    font-family: Arial;
-    font-size: 16px;
-    margin: 0;
-    padding: 0;
+color: darkcyan;
+text-align: center;
+font-family:Arial;
+font-size:18px;
+margin: 0;
+padding: 0;
 }
 #container
 {
-    width: 70%;
-    padding: 1em;
-    text-align: left;
-    border: 1px solid #DDDD;
-    margin: 0 auto;
+width: 50%;
+padding: 1em;
+border-bottom: 5px solid #fafa;
+border-right: 10px solid #FFF233;
+border-left: 10px solid #33BEFF;
+border-top: 5px solid #FF8533;
+text-align: center;
+margin: O auto;
 }
 #container h1
 {
