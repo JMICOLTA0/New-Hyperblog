@@ -41,12 +41,14 @@ body
 {
     font-size: 20px;
 }
-footer
+#post
 {
-    color: yellow;
-    text-align: left; 
-    font-size: small;
-    height: 150px; 
-    position: absolute; left: 0%; bottom: 0%; width: 100%;
-    margin-bottom: 0%;
+    padding: 1em;
+}
+#footer
+{
+    background: #777;
+    color: white;
+    text-align: center; 
+    padding: 00.5em;
 }
